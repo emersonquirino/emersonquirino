@@ -4,8 +4,6 @@
 - 👨‍💻 Atualmente trabalhando com Solution Engineer - Analytics na Oracle.
 - 🎓 Graduado em Direito e em Gestão de TI.
 - 🎓 Especialização em Machine Learning Engineering
-- 🌱 Atualmente estou aprendendo sobre [Tecnologia que você está estudando].
-- 📫 Como me encontrar: emersonquirinoalves@outlook.com
 
 ---
 
