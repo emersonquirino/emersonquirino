@@ -27,14 +27,16 @@
 
 ### 🚀 Meus Projetos
 
-- 🔗 **[API Rest Desenvolvido Com Flask]**
-  - [[Link para o seu repositório do projeto 1](https://github.com/emersonquirino/TechChallengeFase1-APIrestDesenvolvidoComFlask.git)]
-- 🔗 **[Data Pipeline Bovespa Trading]**
-  - [[Link para o seu repositório do projeto 2](https://github.com/emersonquirino/TechChallengeFase2-DataPipelineBovespaTrading.git)]
-- 🔗 **[IPCA Predicao Dashboard]**
-  - [[Link para o seu repositório do projeto 3](https://github.com/emersonquirino/Tech-Challenge-Fase-3-IPCA-PredicaoDashboard.git)]
-- 🔗 **[Previsao De Acoes Com LSTM]**
-  - [[Link para o seu repositório do projeto 3](https://github.com/emersonquirino/Tech-Challenge-Fase-3-IPCA-PredicaoDashboard.git](https://github.com/emersonquirino/TechChallengeFase4-PrevisaoDeAcoesComLSTM.git))]
+- 🔗 **API Rest Desenvolvido Com Flask**
+  - [Acesse o repositório aqui](https://github.com/emersonquirino/TechChallengeFase1-APIrestDesenvolvidoComFlask.git)
+- 🔗 **Data Pipeline Bovespa Trading**
+  - [Acesse o repositório aqui](https://github.com/emersonquirino/TechChallengeFase2-DataPipelineBovespaTrading.git)
+- 🔗 **IPCA Predicao Dashboard**
+  - [Acesse o repositório aqui](https://github.com/emersonquirino/Tech-Challenge-Fase-3-IPCA-PredicaoDashboard.git)
+- 🔗 **Previsao De Acoes Com LSTM**
+  - [Acesse o repositório aqui](https://github.com/emersonquirino/TechChallengeFase4-PrevisaoDeAcoesComLSTM.git)
+- 🔗 **Datathon Selecao Candidatos RH**
+  - [Acesse o repositório aqui](https://github.com/emersonquirino/TechChallengeFase5-DatathonSelecaoCandidatosRH.git)
 ---
 
 ### 📫 Entre em contato!
