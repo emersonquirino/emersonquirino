@@ -1,7 +1,7 @@
 # Olá, sou Emerson Quirino! 👋
 
 ### Sobre mim
-- 👨‍💻 Atualmente trabalhando com Solution Engineer - Analytics na Oracle.
+- 👨‍💻 Atualmente trabalhando com Solution Engineer em Data Analytics na Oracle.
 - 🎓 Graduado em Gestão de TI e Direito.
 - 🎓 Especialização em Machine Learning Engineering
 
