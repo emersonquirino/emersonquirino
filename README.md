@@ -9,12 +9,9 @@
 
 ### 🛠️ Minhas Habilidades
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/>
-    <img src="https://skillicons.dev/icons?i=oracle" title="Oracle Database" alt="Oracle Database"/>
-    <img src="https://skillicons.dev/icons?i=oci" title="Oracle Cloud Infrastructure" alt="Oracle Cloud Infrastructure"/>
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,oracle,oci" />
+  </a>
 </p>
 
 ---
