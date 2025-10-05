@@ -10,7 +10,7 @@
 ### 🛠️ Minhas Habilidades
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,oracle,aws,sql," />
+    <img src="https://skillicons.dev/icons?i=python,git,OCI,sql," />
   </a>
 </p>
 
