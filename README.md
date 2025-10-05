@@ -27,12 +27,12 @@
 
 ### 🚀 Meus Projetos
 
-- 🔗 **API Rest Desenvolvido Com Flask]**
+- 🔗 **[API Rest Desenvolvido Com Flask]**
   - [[Link para o seu repositório do projeto 1](https://github.com/emersonquirino/TechChallengeFase1-APIrestDesenvolvidoComFlask.git)]
-- 🔗 **[Nome do Projeto 2 - Ex: API Rest com Flask]**
-  - [Link para o seu repositório do projeto 2]
-- 🔗 **[Nome do Projeto 3]**
-  - [Link para o seu repositório do projeto 3]
+- 🔗 **[Data Pipeline Bovespa Trading]**
+  - [[Link para o seu repositório do projeto 2](https://github.com/emersonquirino/TechChallengeFase2-DataPipelineBovespaTrading.git)]
+- 🔗 **[IPCA Predicao Dashboard]**
+  - [[Link para o seu repositório do projeto 3](https://github.com/emersonquirino/Tech-Challenge-Fase-3-IPCA-PredicaoDashboard.git)]
 
 ---
 
