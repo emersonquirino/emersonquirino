@@ -27,8 +27,8 @@
 
 ### 🚀 Meus Projetos
 
-- 🔗 **[Nome do Projeto 1 - Ex: API de Dados da Bovespa]**
-  - [Link para o seu repositório do projeto 1]
+- 🔗 **API Rest Desenvolvido Com Flask]**
+  - [[Link para o seu repositório do projeto 1](https://github.com/emersonquirino/TechChallengeFase1-APIrestDesenvolvidoComFlask.git)]
 - 🔗 **[Nome do Projeto 2 - Ex: API Rest com Flask]**
   - [Link para o seu repositório do projeto 2]
 - 🔗 **[Nome do Projeto 3]**
