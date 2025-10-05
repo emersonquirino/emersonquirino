@@ -33,7 +33,8 @@
   - [[Link para o seu repositório do projeto 2](https://github.com/emersonquirino/TechChallengeFase2-DataPipelineBovespaTrading.git)]
 - 🔗 **[IPCA Predicao Dashboard]**
   - [[Link para o seu repositório do projeto 3](https://github.com/emersonquirino/Tech-Challenge-Fase-3-IPCA-PredicaoDashboard.git)]
-
+- 🔗 **[Previsao De Acoes Com LSTM]**
+  - [[Link para o seu repositório do projeto 3](https://github.com/emersonquirino/Tech-Challenge-Fase-3-IPCA-PredicaoDashboard.git](https://github.com/emersonquirino/TechChallengeFase4-PrevisaoDeAcoesComLSTM.git))]
 ---
 
 ### 📫 Entre em contato!
